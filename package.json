@@ -1,0 +1,41 @@
+{
+  "name": "minify-js",
+  "description": "Minification javascript files for ECMA 5 and ECMA 6. May be etc.",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Igor Stcherbina",
+      "email": "verycooleagle@gmail.com",
+      "skype": "eagleeagle7410"
+    }
+  ],
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "keywords": [
+    "minify",
+    "minification",
+    "minification js",
+    "minification js5",
+    "minification js6"
+  ],
+  "maintainers": [
+    {
+      "name": "Igor Stcherbina",
+      "email": "verycooleagle@gmail.com",
+      "skype": "eagleeagle7410"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eagle7410/minify-is.git"
+  },
+  "_id": "minify-js@0.0.1",
+  "dependencies": {
+    "async": "^2.0.1",
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "dir_cache": "^1.0.1",
+    "utils-igor": "^1.0.4"
+  }
+}
