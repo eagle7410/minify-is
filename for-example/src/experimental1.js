@@ -3,7 +3,7 @@
  * @description library for minification  javascript files
  * @module
  */
-"use strict";
+"TEST2";
 
 // Modules & utils
 
