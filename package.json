@@ -35,6 +35,8 @@
     "async": "^2.0.1",
     "babel-cli": "^6.16.0",
     "babel-preset-es2015": "^6.16.0",
+    "grunt": "^1.0.1",
+    "grunt-jsdoc-to-markdown": "^1.2.1",
     "dir_cache": "^1.0.1",
     "utils-igor": "^1.0.4"
   }
