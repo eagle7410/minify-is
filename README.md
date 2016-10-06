@@ -1,7 +1,7 @@
 <a name="module_minify-js"></a>
 
 ## minify-js
-library for minification  javascript files
+Library for minification  javascript files.  
 Note: The code must be all the points with a comma  
 
 ## Installation
