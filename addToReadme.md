@@ -2,7 +2,7 @@
 ----
 
 ```bash
-npm install minify-js
+npm install minify-js --save
 ```
 ## example
 ----
@@ -96,3 +96,7 @@ async.series([
 	console.log('The end :)');
 });
 ```
+## version
+----
+
+Attach unit test.

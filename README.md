@@ -1,14 +1,11 @@
-<a name="module_minify-js"></a>
-
 ## minify-js
-Library for minification  javascript files.  
-Note: The code must be all the points with a comma  
+library for minification  javascript files
 
 ## Installation
 ----
 
 ```bash
-npm install minify-js
+npm install minify-js --save
 ```
 ## example
 ----
@@ -294,3 +291,7 @@ Start process
 | --- | --- |
 | cb | <code>function</code> | 
 
+## version
+----
+
+0.0.3 - Attach unit test.
