@@ -295,3 +295,4 @@ Start process
 ----
 
 0.0.3 - Attach unit test.
+0.0.4 - More solution for compress.

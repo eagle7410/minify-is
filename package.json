@@ -1,7 +1,7 @@
 {
   "name": "minify-js",
   "description": "Minification javascript files for ECMA 5 and ECMA 6. May be etc.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "contributors": [
     {
       "name": "Igor Stcherbina",
@@ -30,7 +30,7 @@
     "type": "git",
     "url": "https://github.com/eagle7410/minify-is.git"
   },
-  "_id": "minify-js@0.0.3",
+  "_id": "minify-js@0.0.4",
   "dependencies": {
     "async": "^2.0.1",
     "dir_cache": "^1.0.1",
